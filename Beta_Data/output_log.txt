@@ -1,0 +1,45 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ASUS HD7790 Series (ID=0x665c)
+    Vendor:   ATI
+    VRAM:     2026 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1776x1000 59Hz; virtual: 1776x1000 at 0,0
+Platform assembly: C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Matthew\Desktop\School\New folder\DungeonDiggers\Beta_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 3.434444 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 208.
+Total: 0.878044 ms (FindLiveObjects: 0.008800 ms CreateObjectMapping: 0.013688 ms MarkObjects: 0.173555 ms  DeleteObjects: 0.009777 ms)
+
+WARNING: Shader Unsupported: 'Reflective/VertexLit' - Pass '' shader state not supported
+UnloadTime: 0.653644 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 5222.
+Total: 1.461289 ms (FindLiveObjects: 0.220977 ms CreateObjectMapping: 0.031777 ms MarkObjects: 0.374000 ms  DeleteObjects: 0.030800 ms)
+
+UnloadTime: 22.653158 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 168 unused Assets to reduce memory usage. Loaded Objects now: 452.
+Total: 7.725423 ms (FindLiveObjects: 0.018577 ms CreateObjectMapping: 0.044000 ms MarkObjects: 0.206800 ms  DeleteObjects: 6.717334 ms)
+
+UnloadTime: 0.513333 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 513.
+Total: 0.912266 ms (FindLiveObjects: 0.015644 ms CreateObjectMapping: 0.022488 ms MarkObjects: 0.240533 ms  DeleteObjects: 0.004888 ms)
+
